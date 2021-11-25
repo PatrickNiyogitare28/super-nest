@@ -9,6 +9,6 @@ export class PostController {
 
   @Get('search')
   call() {
-    return {success: true, status: 200}
+    return { success: true, status: 200 };
   }
 }
