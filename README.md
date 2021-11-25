@@ -8,7 +8,7 @@
 
 ```bash
 # 1. Clone the repository or click on "Use this template" button.
-git clone https://github.com/NarHakobyan/awesome-nest-boilerplate.git my-new-project
+git clone `https://github.com/PatrickNiyogitare28/super-nest.git`
 
 # 2. Enter your newly-cloned folder.
 cd my-new-project
@@ -50,15 +50,3 @@ yarn start:dev
   <dd>eslint + prettier = ❤️</dd>
 </dl>
 
-## Documentation
-
-This project includes a `docs` folder with more details on:
-
-1.  [Setup and development](https://narhakobyan.github.io/awesome-nest-boilerplate/docs/development.html#first-time-setup)
-1.  [Architecture](https://narhakobyan.github.io/awesome-nest-boilerplate/docs/architecture.html)
-
-## Community
-
-For help, discussion about best practices, or any other conversation that would benefit from being searchable:
-
-[Discuss Awesome NestJS Boilerplate on GitHub](https://github.com/NarHakobyan/awesome-nest-boilerplate/discussions)
