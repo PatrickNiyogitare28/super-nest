@@ -9,6 +9,6 @@ export class PostController {
 
   @Get('search')
   call() {
-    return this.client.send('search', { text: 'test' });
+    return {success: true, status: 200}
   }
 }
