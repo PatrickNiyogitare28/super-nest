@@ -1,8 +1,7 @@
-# Awesome NestJS Boilerplate v8
+# Super Nest
 
-[![Awesome NestJS](https://img.shields.io/badge/Awesome-NestJS-blue.svg?longCache=true&style=flat-square)](https://github.com/juliandavidmr/awesome-nestjs)
+A nestjs boiler plate with preconfigured typeorm for postgresql, swagger, dockerfile, webpack & i18n internationalization  
 
-> This is an ever-evolving, very opinionated architecture and dev environment for new node projects using [NestJS](https://nestjs.com). Questions, feedback, and for now, even bikeshedding are welcome. 😄
 
 ## Getting started
 
@@ -13,13 +12,12 @@ git clone `https://github.com/PatrickNiyogitare28/super-nest.git`
 # 2. Enter your newly-cloned folder.
 cd my-new-project
 
-# 3. Install dependencies. (Make sure yarn is installed: https://yarnpkg.com/lang/en/docs/install)
+# 3. Install dependencies. (Make sure yarn is installed: https://github.com/PatrickNiyogitare28/super-nest.git)
 yarn
 
 # 4. Run development server and open http://localhost:3000
 yarn start:dev
 
-# 5. Read the documentation linked below for "Setup and development".
 ```
 
 ## Features
